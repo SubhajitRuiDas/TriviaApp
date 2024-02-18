@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navbar">#141A33</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="title_color">#F3FF9800</color>
+    <color name="background_color">#141A33</color>
+    <color name="answer_button_color">#C4E8E2</color>
+</resources>

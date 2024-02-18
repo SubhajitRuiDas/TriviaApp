@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="title_text">Trivia</string>
+    <string name="quiz_text">Question No. 45/89</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">UPDATE</string>
+    <string name="question_placeholder">This is the place where we will see all the questions</string>
+    <string name="text_formatted">Question No: %d/%d</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">InCorrect Answer</string>
+    <string name="previous_button">PREVIOUS</string>
+</resources>
